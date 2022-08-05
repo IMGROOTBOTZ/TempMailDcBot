@@ -56,8 +56,8 @@ OWNER = int(os.environ['OWNER'])
 start_button = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("👥 Group", url="https://t.me/iamgrootbotz"),
-                    InlineKeyboardButton("🗣 Channel", url="https://t.me/IMGROOTBOTztype")
+                    InlineKeyboardButton("👥 Group", url="https://t.me/iamgrootbotztype"),
+                    InlineKeyboardButton("🗣 Channel", url="https://t.me/IAMGROOTBOTZ")
                 ],
 		        [
                     InlineKeyboardButton("➕ Add to Your Group ➕", url=f"http://t.me/TempMailDcBot?startgroup=new?startgroup=new"),

@@ -46,7 +46,7 @@ I can create **temp emails** for you. Send /new to **create new mail** !
 
 Send /domains to get list of Available Domains.
 
-**Developer** : @KILLXCODER | @IAMGROOTBOTZ
+**Developer** : @KILLXCODER | @ANDROIDMODSTAMIL
 """
 
 CHANNEL_ID = int(os.environ['CHANNEL_ID'])
@@ -60,7 +60,7 @@ start_button = InlineKeyboardMarkup(
                     InlineKeyboardButton("🗣 Channel", url="https://t.me/IAMGROOTBOTZ")
                 ],
 		        [
-                    InlineKeyboardButton("➕ Add to Your Group ➕", url=f"http://t.me/TempMailDcBot?startgroup=new?startgroup=new"),
+                    InlineKeyboardButton("➕ Add to Your Group ➕", url=f"http://t.me/Tempmailidmakerbot?startgroup=new?startgroup=new"),
                 ]    
             ]
 )
